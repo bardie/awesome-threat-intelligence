@@ -462,6 +462,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 <table>
     <tr>
         <td>
+            <a href="https://abuse.io/" target="_blank">AbuseIO</a>
+        </td>
+        <td>
+            AbuseIO is a an open-source toolkit for receiving, processing, correlating abuse reports and send notifications with specific information regarding the abuse case(s). It supports feeds from : ShadowServer, SpamCop, Netcraft, Google Safe Browsing, IP Echelon, C-SIRT, Project Honey Pot, Abuse-IX and many more. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/abusesa/abusehelper" target="_blank">AbuseHelper</a>
         </td>
         <td>
